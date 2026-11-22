@@ -1,0 +1,16 @@
+{
+ "format": 1,
+ "seq": 1,
+ "updated": "2026-11-22T18:13:22Z",
+ "licenses": [
+  {
+   "kid": "a8b5d26dc9906aa4d9ea3912c23187cd",
+   "bind": "a36e2d57f3af993e5680f9878bce1c0b",
+   "tier": "max",
+   "status": "active",
+   "issued": "2026-11-23",
+   "exp": "2026-11-25"
+  }
+ ],
+ "sig": "RIaaWsUDxJdDQimIGpl5IKvK3Rwleg72nMr/GUWKyIgdQk/WDJOZMDrPcFLbDGZbeFpV7CT/VDIqdimElFyABQ=="
+}
