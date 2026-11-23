@@ -1,7 +1,7 @@
 {
  "format": 1,
- "seq": 15,
- "updated": "2026-11-23T07:43:27Z",
+ "seq": 16,
+ "updated": "2026-11-23T07:43:29Z",
  "licenses": [
   {
    "kid": "feef698fcf349346b0ea7c09ceeb9987",
@@ -12,5 +12,5 @@
    "exp": "2026-12-01"
   }
  ],
- "sig": "SEULDCd8OM7gJgKEv0+sZedZJ7w9RhlB1e1V1UbRQay8Ngbv2ppmdsz2rPnYEObWDDXUo0+jIPl61N6tLC+kCA=="
+ "sig": "7GK3NayGZQzpbdMR45j3qpQzBhCFhtfhMTxK1R3e2/eD6mmOEa2t0cl6c5bDZo7+Oc2w/DFyyfx3Up9MULneBA=="
 }
