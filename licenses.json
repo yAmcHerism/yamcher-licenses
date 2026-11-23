@@ -1,7 +1,16 @@
 {
  "format": 1,
- "seq": 12,
- "updated": "2026-11-23T01:08:38Z",
- "licenses": [],
- "sig": "rRs84J5s/bTnHFrgeDQ5CwB7MJueYZhK8RRCWkkKrxIqjMxQFHk3yL5ZG0YbQMtHnGtR4m2sGhljAWsvDjuoDw=="
+ "seq": 13,
+ "updated": "2026-11-23T04:22:18Z",
+ "licenses": [
+  {
+   "kid": "feef698fcf349346b0ea7c09ceeb9987",
+   "bind": "4fbdb0bf394a331a1f9dc2dc3f6a681e",
+   "tier": "max",
+   "status": "active",
+   "issued": "2026-11-23",
+   "exp": "2026-11-30"
+  }
+ ],
+ "sig": "T4zVwXfTmPxgZ3qdKF7+QhtpMLP7iGnSdpL5HlIfmuGwuZ7DgyuYfRNyA8w9pGIsVB0T1a550Yw3gs68g+fICQ=="
 }
